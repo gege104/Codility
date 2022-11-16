@@ -1,6 +1,6 @@
 package BinaryGap;
 
-public class Solution {
+class Solution {
 	public int Solution(int N) {
 		String NBit = "";
 		int topZeroBit = 0;
